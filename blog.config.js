@@ -2,7 +2,7 @@ const BLOG = {
   title: 'KazeKiddo',
   author: 'KazeKiddo',
   email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://kazekiddo.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
